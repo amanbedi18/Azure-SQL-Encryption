@@ -1,0 +1,22 @@
+{
+  "SqlDbs": [
+    {
+      "name": "{db name}",
+      "tables": [
+        {
+          "name": "dbo.{table name 1}.{column name 1}"
+        },
+        {
+          "name": "dbo.{table name 1}.{column name 2}"
+        },
+        {
+          "name": "dbo.{table name 2}.{column name 1}"
+        },
+        {
+          "name": "dbo.{table name 2}.{column name 2}"
+        } 
+      ]
+    }
+  ]
+}
+
